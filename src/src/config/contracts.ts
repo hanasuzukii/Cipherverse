@@ -1,5 +1,5 @@
 // CipherverseFleet contract deployed on Sepolia
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0x5C903eE1de0C11d13496D098cfb64A5c8c9Ae11c';
 
 // ABI generated from deployments/sepolia/CipherverseFleet.json
 export const CONTRACT_ABI = [
